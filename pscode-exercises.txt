@@ -3,7 +3,7 @@
 a = 1
 b = 3
 sum = a+b
-sum = 4
+
 
 // Exercise 2: Check if a Number is Even or Odd
 
